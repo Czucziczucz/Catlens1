@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/Catlens1/static/css/main.0ef016f3.chunk.css",
+    "main.js": "/Catlens1/static/js/main.7aae6844.chunk.js",
+    "main.js.map": "/Catlens1/static/js/main.7aae6844.chunk.js.map",
+    "runtime-main.js": "/Catlens1/static/js/runtime-main.4b87ccd0.js",
+    "runtime-main.js.map": "/Catlens1/static/js/runtime-main.4b87ccd0.js.map",
+    "static/css/2.ae9f1eb3.chunk.css": "/Catlens1/static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.c8db1d08.chunk.js": "/Catlens1/static/js/2.c8db1d08.chunk.js",
+    "static/js/2.c8db1d08.chunk.js.map": "/Catlens1/static/js/2.c8db1d08.chunk.js.map",
+    "static/js/3.a1e90fd2.chunk.js": "/Catlens1/static/js/3.a1e90fd2.chunk.js",
+    "static/js/3.a1e90fd2.chunk.js.map": "/Catlens1/static/js/3.a1e90fd2.chunk.js.map",
+    "index.html": "/Catlens1/index.html",
+    "static/css/2.ae9f1eb3.chunk.css.map": "/Catlens1/static/css/2.ae9f1eb3.chunk.css.map",
+    "static/css/main.0ef016f3.chunk.css.map": "/Catlens1/static/css/main.0ef016f3.chunk.css.map",
+    "static/js/2.c8db1d08.chunk.js.LICENSE.txt": "/Catlens1/static/js/2.c8db1d08.chunk.js.LICENSE.txt",
+    "static/media/1.8e7b1be2.jpg": "/Catlens1/static/media/1.8e7b1be2.jpg",
+    "static/media/2.c78d428f.jpg": "/Catlens1/static/media/2.c78d428f.jpg",
+    "static/media/3.8572e1a1.jpg": "/Catlens1/static/media/3.8572e1a1.jpg",
+    "static/media/4.0b400c94.JPG": "/Catlens1/static/media/4.0b400c94.JPG",
+    "static/media/Animals1.4dc2ac24.jpg": "/Catlens1/static/media/Animals1.4dc2ac24.jpg",
+    "static/media/Animals2.f3324f1f.jpg": "/Catlens1/static/media/Animals2.f3324f1f.jpg",
+    "static/media/Animals3.1921ddb1.jpg": "/Catlens1/static/media/Animals3.1921ddb1.jpg",
+    "static/media/Architecture1.79191208.jpg": "/Catlens1/static/media/Architecture1.79191208.jpg",
+    "static/media/Architecture2.0b400c94.JPG": "/Catlens1/static/media/Architecture2.0b400c94.JPG",
+    "static/media/Art1.b1d6d351.png": "/Catlens1/static/media/Art1.b1d6d351.png",
+    "static/media/Art2.8dda0080.jpg": "/Catlens1/static/media/Art2.8dda0080.jpg",
+    "static/media/Art3.fc7ac774.jpg": "/Catlens1/static/media/Art3.fc7ac774.jpg",
+    "static/media/Art4.86db93ec.jpg": "/Catlens1/static/media/Art4.86db93ec.jpg",
+    "static/media/Portret1.bed6ae55.jpg": "/Catlens1/static/media/Portret1.bed6ae55.jpg",
+    "static/media/Portret2.1ce4984c.jpg": "/Catlens1/static/media/Portret2.1ce4984c.jpg",
+    "static/media/Portret3.a729bb87.jpg": "/Catlens1/static/media/Portret3.a729bb87.jpg",
+    "static/media/kasia.d7b5a054.jpg": "/Catlens1/static/media/kasia.d7b5a054.jpg",
+    "static/media/obraz1.6609d156.jpg": "/Catlens1/static/media/obraz1.6609d156.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b87ccd0.js",
+    "static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.c8db1d08.chunk.js",
+    "static/css/main.0ef016f3.chunk.css",
+    "static/js/main.7aae6844.chunk.js"
+  ]
+}
