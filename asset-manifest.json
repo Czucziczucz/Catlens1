@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Catlens1/static/css/main.0ef016f3.chunk.css",
-    "main.js": "/Catlens1/static/js/main.7aae6844.chunk.js",
-    "main.js.map": "/Catlens1/static/js/main.7aae6844.chunk.js.map",
+    "main.js": "/Catlens1/static/js/main.629e2f3c.chunk.js",
+    "main.js.map": "/Catlens1/static/js/main.629e2f3c.chunk.js.map",
     "runtime-main.js": "/Catlens1/static/js/runtime-main.4b87ccd0.js",
     "runtime-main.js.map": "/Catlens1/static/js/runtime-main.4b87ccd0.js.map",
     "static/css/2.ae9f1eb3.chunk.css": "/Catlens1/static/css/2.ae9f1eb3.chunk.css",
@@ -38,6 +38,6 @@
     "static/css/2.ae9f1eb3.chunk.css",
     "static/js/2.c8db1d08.chunk.js",
     "static/css/main.0ef016f3.chunk.css",
-    "static/js/main.7aae6844.chunk.js"
+    "static/js/main.629e2f3c.chunk.js"
   ]
 }
